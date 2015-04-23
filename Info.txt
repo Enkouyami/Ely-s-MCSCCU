@@ -1,0 +1,7 @@
+Do NOT manually edit this text file. It is used by the Updater.sh for checking critical information such version number to make updates.
+
+Ely's Minecraft Server & Client Compatibility Updater
+
+version=0.0.0
+
+Optional Mods
